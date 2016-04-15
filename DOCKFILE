@@ -1,0 +1,2 @@
+FROM mysqlcluster:7.4
+user mysql
